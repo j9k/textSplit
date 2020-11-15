@@ -1,0 +1,21 @@
+
+textSplit 
+
+How to use.
+
+I suggest copying this to the command prompt and changing the numbers.
+
+textSplit.exe -getnext 1500 -from yourFile.txt -startingat 0
+
+
+-getnext is the maximum number of characters you want out of the text.
+
+-from is the text file you have your text in
+
+-startingat is the starting sentence of the text you want to retrieve
+
+
+	The way textSplit works is it splits up a text file into sentences. It then takes the number of characters you requested and returns complete sentences with the number of characters less than the request. Afterwards it gives you the sentence number you left off at for the next time you run the program.
+
+
+

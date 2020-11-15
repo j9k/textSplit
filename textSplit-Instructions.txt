@@ -5,7 +5,7 @@ How to use.
 
 I suggest copying this to the command prompt and changing the numbers.
 
-textSplit.exe -getnext 1500 -from yourFile.txt -startingat 0
+.\textSplit.exe -getnext 1500 -from yourFile.txt -startingat 0
 
 
 -getnext is the maximum number of characters you want out of the text.

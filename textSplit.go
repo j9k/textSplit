@@ -91,7 +91,7 @@ func main() {
 		}
 	}
 
-	fmt.Println("No more than ", runesRequested, " will be returned from ", textFile)
+	fmt.Println("No more than ", runesRequested, " characters will be returned from ", textFile)
 
 	fmt.Println("Reading the file ", textFile)
 	fullTextByte, err := ioutil.ReadFile(textFile) //change to variable from command line at some point

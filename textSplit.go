@@ -158,10 +158,11 @@ CountFind:
 		fmt.Println("YOU HAVE REACHED THE END OF THE STORY. TIME TO FIND ANOTHER ONE FOR DAVE!!!!!!!!!!!!")
 	} else {
 
-		fmt.Println("Collecting data for the next session")
+		//fmt.Println("Collecting data for the next session")
 
-		fmt.Println("Writing the log file")
+		//fmt.Println("Writing the log file")
 	}
+	fmt.Println("end of line.......")
 }
 
 //func flagSetup() { // function to setup the flag package without crouding the main function

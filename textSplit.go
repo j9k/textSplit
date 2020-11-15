@@ -12,6 +12,9 @@ Jail email systems limit emails to a maximum number of characters and lines*/
 9. write a function to write the log file pass it the struct to append to the end of the file
 
 */
+
+// go version go1.15.3 windows/amd64
+
 package main
 
 import (

@@ -1,0 +1,5 @@
+	fileNameInput  original.txt
+	fileNameoutput s 16-26
+	logId
+	runesRequested 2000
+    runesReturned 1921
